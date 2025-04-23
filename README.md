@@ -18,16 +18,7 @@ smoker: Smoking status (yes/no)
 region: Residential area in the U.S. (northeast, southeast, southwest, northwest)
 
 charges: Individual medical costs billed by health insurance (target variable)​
-GitHub
-+3
-GitHub
-+3
-GitHub
-+3
-GitHub
-+1
-GitHub
-+1
+
 
 
 
@@ -44,13 +35,7 @@ Categorical Encoding: Transformed categorical variables using one-hot encoding f
 Model Evaluation: Assessed model performance using metrics like R² and Mean Squared Error (MSE).
 
 Feature Importance: Interpreted regression coefficients to determine the influence of each feature on insurance charges.​
-GitHub
-+2
-GitHub
-+2
-GitHub
-+2
-GitHub
+
 
 
 
@@ -107,10 +92,7 @@ Implement regularization techniques like Ridge and Lasso regression to prevent o
 Explore non-linear models to capture complex relationships between features and charges.
 
 Deploy the model as a web application for real-time insurance charge predictions.​
-GitHub
-+1
-GitHub
-+1
+
 
 
 
